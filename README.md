@@ -1,4 +1,5 @@
-<div align="center">
+<
+div align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=160&section=header&text=Welcome%20&fontAlign=50&fontAlignY=70&fontSize=90)
 </div>
@@ -28,6 +29,9 @@
 </p>
 <h4 align="center">BE</h4>
 <p align="center">
+  <img src="https://img.shields.io/badge/#F24E1E?style=flat-square&logo=figma&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/#FFCA28?style=flat-square&logo=firebase&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/#3FCF8E?style=flat-square&logo=supabase&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
 </p>
