@@ -47,7 +47,6 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jira Software-0052CC?style=flat-square&logo=jirasoftware&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/></a>&nbsp 
 </p>
 <br>
